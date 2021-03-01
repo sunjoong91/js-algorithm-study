@@ -17,4 +17,4 @@
             console.log(solution(10));
         </script>
     </body>
-</html>
+</html> 
